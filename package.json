@@ -1,0 +1,28 @@
+{
+  "name": "l",
+  "version": "1.0.0",
+  "description": "main",
+  "main": "index.js",
+  "dependencies": {
+    "google-map-react": "^1.1.4",
+    "mongodb": "^2.2.33",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuftsdev/comp20-s2019-team18.git"
+  },
+  "author": "team_18",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tuftsdev/comp20-s2019-team18/issues"
+  },
+  "homepage": "https://github.com/tuftsdev/comp20-s2019-team18#readme",
+  "scripts": {
+    "start": "node backend/index.js"
+  }
+}

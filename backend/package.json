@@ -1,0 +1,12 @@
+{
+	"name": "backend",
+	"version": "1.0.0",
+	"dependencies": {
+		"express": "latest",
+		"mongodb": "^2.2.33",
+		"validator": "latest"
+	},
+	"scripts": {
+	  "start": "node index.js"
+	}
+}
